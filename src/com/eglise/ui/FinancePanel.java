@@ -1,12 +1,8 @@
 package com.eglise.ui;
+import com.eglise.model.*;
+import com.eglise.service.*;
+import com.eglise.db.*;
 
-import com.eglise.dao.MembreDAO;
-import com.eglise.dao.TransactionDAO;
-import com.eglise.model.Membre;
-import com.eglise.model.Transaction;
-import com.eglise.service.AuthService;
-import com.eglise.service.BackupService;
-import com.eglise.service.ReportService;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

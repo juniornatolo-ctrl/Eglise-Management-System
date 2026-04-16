@@ -1,7 +1,8 @@
 package com.eglise.ui;
+import com.eglise.model.*;
+import com.eglise.service.*;
+import com.eglise.db.*;
 
-import com.eglise.db.DatabaseManager;
-import com.eglise.ui.MainFrame;
 import javax.swing.*;
 
 public class Main {

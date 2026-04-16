@@ -1,9 +1,7 @@
 package com.eglise.service;
+import com.eglise.model.*;
+import com.eglise.db.*;
 
-import com.eglise.dao.MessageDAO;
-import com.eglise.dao.MembreDAO;
-import com.eglise.model.Membre;
-import com.eglise.model.Message;
 
 import java.time.LocalDateTime;
 import java.util.*;

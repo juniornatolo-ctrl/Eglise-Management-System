@@ -1,8 +1,8 @@
 package com.eglise.ui;
+import com.eglise.model.*;
+import com.eglise.service.*;
+import com.eglise.db.*;
 
-import com.eglise.service.BackupService;
-import com.eglise.service.AuthService;
-import com.eglise.db.DatabaseManager;
 
 import javax.swing.*;
 import javax.swing.border.*;

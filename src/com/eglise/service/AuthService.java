@@ -1,6 +1,7 @@
 package com.eglise.service;
+import com.eglise.model.*;
+import com.eglise.db.*;
 
-import com.eglise.db.DatabaseManager;
 import java.io.*;
 import java.security.*;
 import java.util.*;
