@@ -1,5 +1,4 @@
 package com.eglise.service;
-package com.eglise.service;
 
 import com.eglise.dao.*;
 import com.eglise.dao.SacrementDAO;
