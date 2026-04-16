@@ -1,3 +1,4 @@
+package com.eglise.ui;
 package com.eglise;
 
 import com.eglise.db.DatabaseManager;

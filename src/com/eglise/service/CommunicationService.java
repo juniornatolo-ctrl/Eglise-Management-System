@@ -1,4 +1,5 @@
 package com.eglise.service;
+package com.eglise.service;
 
 import com.eglise.dao.MessageDAO;
 import com.eglise.dao.MembreDAO;
